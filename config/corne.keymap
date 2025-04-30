@@ -24,6 +24,8 @@
   // tapping-term-ms = <250>;
   // quick-tap-ms = <100>;
   // global-quick-tap;
+
+  quick-tap-ms = <150>;
 };
 
 / {
